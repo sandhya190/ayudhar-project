@@ -1,0 +1,26 @@
+.main-container{
+    background-color: white;
+    height: 100vh;
+    padding: 20px;
+}
+.box1{
+    border-color: crimson;
+    border-style: solid;
+    border-width: 10px;
+    padding: 10px;
+    height: 150px;
+    width: 500px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.heading{
+    color: blue;
+    font-size: 22px;
+    text-align: center;
+    font-family: "Roboto"
+}
+.list{
+    color: black;
+    font-size: 18px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}

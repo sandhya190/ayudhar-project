@@ -1,0 +1,131 @@
+.box{
+    border:solid 10px;
+    border-color:crimson;
+    border-radius:10px ;
+    height:1500px;
+    
+}
+.heading{   
+    text-align:center;
+    color:brown;
+    margin-top:5px ;
+}
+.paper{
+    text-align:center;
+    border:solid 10px;
+    border-color:crimson;
+    height:700px;
+}
+.quote{
+    font-size:20px;
+    color:darkred;
+    margin-top:40px;
+}
+.blood{
+    height:250px;
+    border:solid 10px;
+    border-color: rgb(6, 66, 66);
+}
+.para{
+    display:flex;
+    justify-content:space-around;
+    font-size:20px;
+    color:brown;
+    margin-top:50px;
+}
+.ramya{
+    width:70%;
+    margin-left:0px;
+}
+.blood{
+    width:50%;
+    float:left;
+}
+.book{
+    font-size:35px;
+    margin-left:300px;
+    margin-top:10px;
+    color:darkcyan;
+}
+.donate{
+    height:250px;
+    width:250px;
+    border:solid 12px;
+    border-color:darkcyan;
+    float:right;
+    margin-right:50px;
+}
+.logoimg{
+    height:500px;
+    width:500px;
+    border-radius:50px;
+   margin-left:400px;
+   margin-top:10px;
+}
+.heading2{
+    text-align:left;
+    font-size:25px;
+    margin-left:20px;
+    color:chocolate;
+    margin-left:75px;
+    margin-top:20px;
+}
+.unorder{
+    margin-left:90px;
+    font-weight:500;
+
+}
+.heading3{
+    text-align:left;
+    font-size:25px;
+    margin-left:20px;
+    color:chocolate;
+    margin-left:75px;
+    margin-top:20px;
+}
+.para2{
+    margin-left:90px;
+    font-weight:500;
+
+}
+.para3{
+    margin-left:90px;
+    font-weight:500;
+
+}
+.main{
+    background-color:rgb(226, 220, 214);
+}
+#look{
+    text-decoration:none;
+    font-size:20px;
+    color:darkcyan;
+}
+.navbar{
+    margin-top:40px;
+}
+.sec{
+    margin-top:15px;
+}
+.mac{
+    text-align:left ;
+    color:chocolate;
+}
+.min{
+     margin-top:30px;
+    color:chocolate;
+    margin-bottom:45px;
+}
+.so{
+    text-align: left;
+}
+.form{
+    color:white;
+    padding:6px;
+    border:2px;
+    background-color: blue;
+}
+.navbar{
+         color:black;
+
+}
