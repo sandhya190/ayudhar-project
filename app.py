@@ -135,4 +135,4 @@ def receiveform():
 if __name__ == '__main__':
     create_table()
     create_r_table()
-    app.run(debug=True)
+    app.run(host="0.0.0.0",port=8080)
